@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        td, th {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+        .black-background {
+            background-color: black;
+            color: white;
+        }
+        .nested-table {
+            width: 100%;
+            margin: 10px 0;
+        }
